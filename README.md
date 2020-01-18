@@ -11,13 +11,13 @@ Tools using in this template are:
 
 ## Commands
 
-`npm run build` for generatimg production build.
+-`npm run build` for generatimg production build.
   When running, gulp:
     - compresses images;
     - compresses styles and scripts;
     - concatenates styles and scripts, so they are inserted in page like single file;
     - makes versions for styles and scripts;
-`npm run dev` for generating development build. Will start development sever with live changes
+-`npm run dev` for generating development build. Will start development sever with live changes
 
 ## About system
 
