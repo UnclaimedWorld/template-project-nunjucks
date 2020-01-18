@@ -2,7 +2,7 @@
 
 ## Short review
 This template is used by me just for creating sites without javascript frameworks(like react, angular, vue).
-For automating is used (Gulp 4)[http://gulpjs.org/]
+For automating is used [Gulp 4](http://gulpjs.org/)
 Tools using in this template are:
   - [Nunjucks](https://mozilla.github.io/nunjucks/)
   - [SCSS](https://sass-lang.com/)
